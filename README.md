@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://amonxu.com/">Amon</a></h2>
 <p>I'm currently a senior software engineer based in China, I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
-<p><a href="https://amonxu.com"><img src="https://amonxu.com/images/favicon-32x32-next.png?v=7.4.1" alt="Website Badge"></a> <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/" alt="LinkedIn Badge"></a></a> <a href="https://www.zhihu.com/people/amonxu"><img src="https://img.shields.io/badge/-@amonxu-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=Zhihu&amp;link=https://www.zhihu.com/people/amonxu" alt="Zhihu profile"></a> </p>
+<p><a href="https://amonxu.com"><img src="https://img.shields.io/badge/-@amonxu-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=Blogger&amp;link=https://amonxu.com" alt="Amon Xu profile"></a> <a href="https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/" alt="LinkedIn Badge"></a></a> <a href="https://www.zhihu.com/people/amonxu"><img src="https://img.shields.io/badge/-@amonxu-0077B5?style=flat-square&amp;labelColor=0066FF&amp;logo=Zhihu&amp;link=https://www.zhihu.com/people/amonxu" alt="Zhihu profile"></a> </p>
 <img align="right" src="https://media2.giphy.com/media/1lvotGQwhzi6O0gQtV/200w.webp?cid=ecf05e47zl8maonxea6mhp9bd8nroopngskpkfkllbbki1zo&rid=200w.webp&ct=g" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -33,6 +33,7 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=xumeng&show_icons=true&count_private=true" alt="xumeng" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=xumeng.xumeng" alt="visitors"></p>
+
 
 <!--
 **xumeng/xumeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
