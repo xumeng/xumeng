@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/-@amonxu-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Hexo&amp;link=https://amonxu.com" alt="Amon Xu profile">
     </a> 
     <a href="https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/">
-        <img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/" alt="LinkedIn Badge">
+        <img src="https://img.shields.io/badge/-@amonxu-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/" alt="LinkedIn Badge">
     </a>
     <a href="https://www.zhihu.com/people/amonxu">
         <img src="https://img.shields.io/badge/-@amonxu-0066FF?style=flat-square&amp;labelColor=0066FF&amp;logo=Zhihu&amp;link=https://www.zhihu.com/people/amonxu" alt="Zhihu profile">
@@ -15,10 +15,10 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>💻 I’m currently working on Shenzhen.China</li>
-<li>🧐 Focus on backend service, <strong>serverless architectures</strong>, <strong>distributed systems</strong>, interesting products.</li>
+<li>🧐 Focus on backend service, <strong>serverless architectures</strong>, <strong>distributed systems</strong>, <strong>interesting products</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/xumeng">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://amonxu.com/archives">My blog</a>.</li>
-<li>🎉 Fun Fact: <strong>Life is short, make it funny<strong>.</li>
+<li>🎉 Fun Fact: <strong>Life is short, make it funny</strong>.</li>
 <li>:soccer: Write interesting and valuable stories in my head into a book📚, or shoot them into video works🎥, and present them to the world🌏.</li>
 <li>✈️ Contact me: 📬<a href='mailto:gosuxm@gmail.com'>gosuxm@gmail.com</a></li>
 </ul>
