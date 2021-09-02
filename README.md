@@ -1,24 +1,26 @@
 <h2>Hey 👋, I'm <a href="https://amonxu.com/">Amon</a></h2>
-<p>I'm currently a senior software engineer based in China, I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
+<p>I'm currently a experienced senior engineer, with a demonstrated history of working in the internet industry. </p>
 <p>
     <a href="https://amonxu.com">
-        <img src="https://img.shields.io/badge/-@amonxu-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Blogger&amp;link=https://amonxu.com" alt="Amon Xu profile">
+        <img src="https://img.shields.io/badge/-@amonxu-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Hexo&amp;link=https://amonxu.com" alt="Amon Xu profile">
     </a> 
     <a href="https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/">
         <img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/" alt="LinkedIn Badge">
     </a>
     <a href="https://www.zhihu.com/people/amonxu">
-        <img src="https://img.shields.io/badge/-@amonxu-0066FF?style=flat-square&amp;labelColor=ffffff&amp;logo=Zhihu&amp;link=https://www.zhihu.com/people/amonxu" alt="Zhihu profile">
+        <img src="https://img.shields.io/badge/-@amonxu-0066FF?style=flat-square&amp;labelColor=0066FF&amp;logo=Zhihu&amp;link=https://www.zhihu.com/people/amonxu" alt="Zhihu profile">
     </a> 
 </p>
 <img align="right" src="https://media2.giphy.com/media/1lvotGQwhzi6O0gQtV/200w.webp?cid=ecf05e47zl8maonxea6mhp9bd8nroopngskpkfkllbbki1zo&rid=200w.webp&ct=g" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on Shenzhen</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>💻 I’m currently working on Shenzhen.China</li>
+<li>🧐 Focus <strong>serverless architectures</strong>, <strong>distributed systems</strong>,  </li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/xumeng">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://amonxu.com/archives">My blog</a>.</li>
-<li>🎉 Fun Fact: I am a father。</li>
+<li>🎉 Fun Fact: Life is short, make it funny.</li>
+<li>:soccer: Goal: Write interesting and valuable stories in my head into a book📚, or shoot them into video works🎥, and present them to the world🌏.</li>
+<li>✈️ Contact me: 📬<a href='mailto:gosuxm@gmail.com'>gosuxm@gmail.com</a>.</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <details>
@@ -43,19 +45,3 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=xumeng&show_icons=true&count_private=true" alt="xumeng" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=xumeng.xumeng" alt="visitors"></p>
-
-
-<!--
-**xumeng/xumeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
