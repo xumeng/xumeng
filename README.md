@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/" alt="LinkedIn Badge">
     </a>
     <a href="https://www.zhihu.com/people/amonxu">
-        <img src="https://img.shields.io/badge/-@amonxu-ffffff?style=flat-square&amp;labelColor=ffffff&amp;logo=Zhihu&amp;link=https://www.zhihu.com/people/amonxu" alt="Zhihu profile">
+        <img src="https://img.shields.io/badge/-@amonxu-ffffff?style=flat-square&amp;labelColor=0077B5&amp;logo=Zhihu&amp;link=https://www.zhihu.com/people/amonxu" alt="Zhihu profile">
     </a> 
 </p>
 <img align="right" src="https://media2.giphy.com/media/1lvotGQwhzi6O0gQtV/200w.webp?cid=ecf05e47zl8maonxea6mhp9bd8nroopngskpkfkllbbki1zo&rid=200w.webp&ct=g" />
