@@ -24,7 +24,6 @@
 </ul>
 <h2>✒️ Recent Posts</h2>
 <details>
-    <summary>Explore</summary>
     <li><a target="_blank" href="https://amonxu.com/2021/06/28/2021-06-28-Redis-Book/">《Redis设计与实现》读后感 — June 28, 2021</a></li>
     <li><a target="_blank" href="https://amonxu.com/2021/06/03/2021-06-03-School-Bag/">关于书包的事 — June 3, 2021</a></li>
     <li><a target="_blank" href="https://amonxu.com/2021/03/25/2021-03-25-Made-Stupid-Again/">商业案例——如何“快速体面”地退出市场 — March 25, 2021</a></li>
