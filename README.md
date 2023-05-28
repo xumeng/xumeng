@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://amonxu.com/">Amon</a></h2>
+<h2>Hi, This is <a href="https://amonxu.com/">Amon</a></h2>
 <p>I'm currently a experienced senior engineer, with a demonstrated history of working in the internet industry. </p>
 <p>
     <a href="https://amonxu.com">
