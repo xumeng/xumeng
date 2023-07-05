@@ -10,39 +10,48 @@
     <a href="https://www.zhihu.com/people/amonxu">
         <img src="https://img.shields.io/badge/-@amonxu-0066FF?style=flat-square&amp;labelColor=0066FF&amp;logo=Zhihu&amp;link=https://www.zhihu.com/people/amonxu" alt="Zhihu profile">
     </a> 
+    <img src="https://komarev.com/ghpvc/?username=xumeng&color=brightgreen" alt="visitors">
 </p>
 <img align="right" src="https://media2.giphy.com/media/1lvotGQwhzi6O0gQtV/200w.webp?cid=ecf05e47zl8maonxea6mhp9bd8nroopngskpkfkllbbki1zo&rid=200w.webp&ct=g" />
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>⚡️ About Me</h2>
 <ul>
 <li>💻 I’m currently working on Shenzhen.China</li>
-<li>🧐 Focus on backend service, <strong>serverless architectures</strong>, <strong>distributed systems</strong>, <strong>interesting products</strong>.</li>
+<li>🧐 Focus on <strong>AI/AIGC</strong>, Backend Service, <strong>Serverless Architectures</strong>, <strong>Distributed Systems</strong>, <strong>Full-Stack Engineering</strong>, and more <strong>Interesting Products</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/xumeng">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://amonxu.com/archives">My blog</a>.</li>
-<li>🎉 Fun Fact: <strong>Life is short, make it funny</strong>.</li>
+<li>🎉 <strong>Life is short, Make it funny</strong>.</li>
 <li>:soccer: Write interesting and valuable stories in my head into a book📚, or shoot them into video works🎥, and present them to the world🌏.</li>
 <li>✈️ Contact me: 📬<a href='mailto:gosuxm@gmail.com'>gosuxm@gmail.com</a></li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <ul>
-    <li><a target="_blank" href="https://amonxu.com/2021/06/28/2021-06-28-Redis-Book/">《Redis设计与实现》读后感 — June 28, 2021</a></li>
-    <li><a target="_blank" href="https://amonxu.com/2021/06/03/2021-06-03-School-Bag/">关于书包的事 — June 3, 2021</a></li>
-    <li><a target="_blank" href="https://amonxu.com/2021/03/25/2021-03-25-Made-Stupid-Again/">商业案例——如何“快速体面”地退出市场 — March 25, 2021</a></li>
+    <li><a target="_blank" href="https://amonxu.com/2023/04/07/2023-04-07-My-King/">《The King of Life》/《我》</a></li>
+    <li><a target="_blank" href="https://amonxu.com/2022/12/02/2022-12-02-Mountain/">《Mountain 2》/《山 · 其二》</a></li>
+    <li><a target="_blank" href="https://amonxu.com/2022/12/01/2022-12-01-Mountain/">《Mountain 1》/《山 · 其一》</a></li>
+    <li><a target="_blank" href="https://amonxu.com/2022/11/30/2022-11-30-Metro-Train/">《The Monster》/《地铁》</a></li>
 </ul>
 <p><a target="_blank" href="https://amonxu.com/archives">Read More</a></p>
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 Some Languages and Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" alt="oc" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
+<h2>📈 GitHub Stat</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=xumeng&show_icons=true&count_private=true" alt="xumeng" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=xumeng.xumeng" alt="visitors"></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=acheong08&layout=compact"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xumeng"/>
+
+<h2>😄 Keep Smile</h2>
+<img src="https://readme-jokes.vercel.app/api"/>
