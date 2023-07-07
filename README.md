@@ -1,5 +1,11 @@
-<h2>Hi, This is <a href="https://amonxu.com/">Amon</a></h2>
-<p>I'm currently a experienced senior engineer, with a demonstrated history of working in the internet industry. </p>
+<h2>🫡 Hi, This is <a href="https://amonxu.com/">Amon</a></h2>
+<p>
+    A dynamic, curious, and innovative team player who thrives on pushing boundaries, embracing challenges, and thinking outside the box. 
+    <br/>
+    With a background in AI, FinTech, and Internet business, along with extensive experience in internet engineering, I excel at building products from the ground up (0-10) and leveraging technology to drive business value. 
+<br/>
+    Beyond a strong focus on technology, I bring a wealth of ideas for product development and operational growth.
+</p> 
 <p>
     <a href="https://amonxu.com">
         <img src="https://img.shields.io/badge/-@amonxu-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Hexo&amp;link=https://amonxu.com" alt="Amon Xu profile">
