@@ -1,5 +1,8 @@
 <h2>🫡 Hi, This is <a href="https://amonxu.com/">Meng</a></h2>
 <p>
+    You can call my Chinese name: <b>Meng</b> (/ mən /
+), or my English name: <b>Amon</b> (/ ˈɑːmən /
+). <br/>
     A dynamic, curious, and innovative team player who thrives on pushing boundaries, embracing challenges, and thinking outside the box. 
     <br/>
     With a background in AI, FinTech, and Internet business, along with extensive experience in internet engineering, I excel at building products from the ground up (0-10) and leveraging technology to drive business value. 
