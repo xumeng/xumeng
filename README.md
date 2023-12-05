@@ -1,4 +1,4 @@
-<h2>🫡 Hi, This is <a href="https://amonxu.com/">Amon</a></h2>
+<h2>🫡 Hi, This is <a href="https://amonxu.com/">Meng</a></h2>
 <p>
     A dynamic, curious, and innovative team player who thrives on pushing boundaries, embracing challenges, and thinking outside the box. 
     <br/>
@@ -8,7 +8,7 @@
 </p> 
 <p>
     <a href="https://amonxu.com">
-        <img src="https://img.shields.io/badge/-@amonxu-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Hexo&amp;link=https://amonxu.com" alt="Amon Xu profile">
+        <img src="https://img.shields.io/badge/-@amonxu-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Hexo&amp;link=https://amonxu.com" alt="Meng Xu's profile">
     </a> 
     <a href="https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/">
         <img src="https://img.shields.io/badge/-@amonxu-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/" alt="LinkedIn Badge">
