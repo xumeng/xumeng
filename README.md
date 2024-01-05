@@ -25,7 +25,7 @@
 <h2>⚡️ About Me</h2>
 <ul>
 <li>💻 I’m currently working on Shenzhen.China</li>
-<li>🧐 Focus on <strong>AI/AIGC</strong>, Backend Service, <strong>Serverless Architectures</strong>, <strong>Distributed Systems</strong>, <strong>Full-Stack Engineering</strong>, and more <strong>Interesting Products</strong>.</li>
+<li>🧐 Focus on <strong>AI/GenAI</strong>, Backend Service, <strong>Serverless Architectures</strong>, <strong>Distributed Systems</strong>, <strong>Full-Stack Engineering</strong>, and more <strong>Interesting Products</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/xumeng">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://amonxu.com/archives">My blog</a>.</li>
 <li>🎉 <strong>Life is short, Make it funny</strong>.</li>
@@ -34,7 +34,9 @@
 </ul>
 <h2>✒️ Recent Posts</h2>
 <ul>
+    <li><a target="_blank" href="https://amonxu.com/2023/09/01/en/2023-09-01-Refactoring/">《Best Practices for Backend System Refactoring: How to do backend system refactoring efficiently and with high quality》</a></li>
     <li><a target="_blank" href="https://amonxu.com/2023/04/07/2023-04-07-My-King/">《The King of Life》/《我》</a></li>
+    <li><a target="_blank" href="https://amonxu.com/2023/07/22/zh-CN/2023-07-22-Hospital/">《Overflow》/《一个地方，人满为患》</a></li>
     <li><a target="_blank" href="https://amonxu.com/2022/12/02/2022-12-02-Mountain/">《Mountain 2》/《山 · 其二》</a></li>
     <li><a target="_blank" href="https://amonxu.com/2022/12/01/2022-12-01-Mountain/">《Mountain 1》/《山 · 其一》</a></li>
     <li><a target="_blank" href="https://amonxu.com/2022/11/30/2022-11-30-Metro-Train/">《The Monster》/《地铁》</a></li>
