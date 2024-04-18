@@ -34,14 +34,15 @@
 </ul>
 <h2>✒️ Recent Posts</h2>
 <ul>
+    <li><a target="_blank" href="https://amonxu.com/2023/10/11/en/2023-10-11-CentOS-Error-libstdc++.so.6-version-GLIBCXX_3.4.xx-not-found/">《How to solve error on CentOS "/lib64/libstdc++.so.6 version GLIBCXX_3.4.xx not found"》</a></li>
     <li><a target="_blank" href="https://amonxu.com/2023/09/01/en/2023-09-01-Refactoring/">《Best Practices for Backend System Refactoring: How to do backend system refactoring efficiently and with high quality》</a></li>
-    <li><a target="_blank" href="https://amonxu.com/2023/04/07/2023-04-07-My-King/">《The King of Life》/《我》</a></li>
+    <li><a target="_blank" href="https://amonxu.com/2023/04/07/zh-CN/2023-04-07-My-King/">《The King of Life》/《我》</a></li>
     <li><a target="_blank" href="https://amonxu.com/2023/07/22/zh-CN/2023-07-22-Hospital/">《Overflow》/《一个地方，人满为患》</a></li>
-    <li><a target="_blank" href="https://amonxu.com/2022/12/02/2022-12-02-Mountain/">《Mountain 2》/《山 · 其二》</a></li>
-    <li><a target="_blank" href="https://amonxu.com/2022/12/01/2022-12-01-Mountain/">《Mountain 1》/《山 · 其一》</a></li>
-    <li><a target="_blank" href="https://amonxu.com/2022/11/30/2022-11-30-Metro-Train/">《The Monster》/《地铁》</a></li>
+    <li><a target="_blank" href="https://amonxu.com/2022/12/02/zh-CN/2022-12-02-Mountain/">《Mountain 2》/《山 · 其二》</a></li>
+    <li><a target="_blank" href="https://amonxu.com/2022/12/01/zh-CN/2022-12-01-Mountain/">《Mountain 1》/《山 · 其一》</a></li>
+    <li><a target="_blank" href="https://amonxu.com/2022/11/30/zh-CN/2022-11-30-Metro-Train/">《The Monster》/《地铁》</a></li>
 </ul>
-<p><a target="_blank" href="https://amonxu.com/archives">Read More</a></p>
+<p><a target="_blank" href="https://amonxu.com/en">Read More</a></p>
 <h2>🚀 Some Languages and Tools I Use</h2>
 <p align="left">
 
