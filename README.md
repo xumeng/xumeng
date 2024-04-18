@@ -31,7 +31,7 @@
 <li>🎉 <strong>Life is short, Make it funny</strong>.</li>
 <li>:soccer: Write interesting and valuable stories in my head into a book📚, or shoot them into video works🎥, and present them to the world🌏.</li>
 <li>✈️ Contact me: 📬<a href='mailto:gosuxm@gmail.com'>gosuxm@gmail.com</a></li>
-<li>💗 Learn more about me: <a href='https://about.amonxu.com'>About me</a></li>
+<li>👀 Learn more about me: ❤️<a href='https://about.amonxu.com'>About Meng</a></li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <ul>
