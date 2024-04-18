@@ -1,4 +1,4 @@
-<h2>🫡 Hi, This is <a href="https://amonxu.com/">Meng</a></h2>
+<h2>🫡 Hi, This is <a target="_blank" href="https://amonxu.com/">Meng</a></h2>
 <p>
     You can call my Chinese name: <b>Meng</b> (/ mən /
 ), or my English name: <b>Amon</b> (/ ˈɑːmən /
@@ -13,13 +13,13 @@ In addition to focusing on technology, I bring a wealth of ideas to product deve
 Rather than positioning myself as a <b>Backend / Full-Stack / Engineer</b>, I prefer to identify as a <b>Creative Thinker</b> and <b>Problem Solver</b>.
 </p> 
 <p>
-    <a href="https://amonxu.com">
+    <a target="_blank" href="https://amonxu.com">
         <img src="https://img.shields.io/badge/-@amonxu-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Hexo&amp;link=https://amonxu.com" alt="Meng Xu's profile">
     </a> 
-    <a href="https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/">
+    <a target="_blank" href="https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/">
         <img src="https://img.shields.io/badge/-@amonxu-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/" alt="LinkedIn Badge">
     </a>
-    <a href="https://www.zhihu.com/people/amonxu">
+    <a target="_blank" href="https://www.zhihu.com/people/amonxu">
         <img src="https://img.shields.io/badge/-@amonxu-0066FF?style=flat-square&amp;labelColor=0066FF&amp;logo=Zhihu&amp;link=https://www.zhihu.com/people/amonxu" alt="Zhihu profile">
     </a> 
     <img src="https://komarev.com/ghpvc/?username=xumeng&color=brightgreen" alt="visitors">
@@ -29,12 +29,12 @@ Rather than positioning myself as a <b>Backend / Full-Stack / Engineer</b>, I pr
 <ul>
 <li>💻 I’m currently living on Shenzhen.China</li>
 <li>🧐 Focus on <strong>AI/GenAI</strong>, Backend Service, <strong>Serverless Architectures</strong>, <strong>Distributed Systems</strong>, <strong>Full-Stack Engineering</strong>, and more <strong>Amazing Products</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/xumeng">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://amonxu.com/archives">My blog</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a target="_blank" href="https://github.com/xumeng">Github</a>.</li>
+<li>📝 I regulary write articles on <a target="_blank" href="https://amonxu.com/archives">My blog</a>.</li>
 <li>🎉 <strong>Life is short, Make it funny</strong>.</li>
 <li>:soccer: Write interesting and valuable stories in my head into a book📚, or shoot them into video works🎥, and present them to the world🌏.</li>
 <li>✈️ Contact me: 📬<a href='mailto:gosuxm@gmail.com'>gosuxm@gmail.com</a></li>
-<li>👀 Learn more about me: ❤️<a href='https://about.amonxu.com'>About Meng</a></li>
+<li>👀 Learn more about me: ❤️<a target="_blank" href='https://about.amonxu.com'>About Meng</a></li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <ul>
