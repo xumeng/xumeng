@@ -27,7 +27,7 @@ Rather than positioning myself as a <b>Backend / Full-Stack / Engineer</b>, I pr
 <img align="right" src="https://media2.giphy.com/media/1lvotGQwhzi6O0gQtV/200w.webp?cid=ecf05e47zl8maonxea6mhp9bd8nroopngskpkfkllbbki1zo&rid=200w.webp&ct=g" />
 <h2>⚡️ About Me</h2>
 <ul>
-<li>💻 I’m currently working on Shenzhen.China</li>
+<li>💻 I’m currently living on Shenzhen.China</li>
 <li>🧐 Focus on <strong>AI/GenAI</strong>, Backend Service, <strong>Serverless Architectures</strong>, <strong>Distributed Systems</strong>, <strong>Full-Stack Engineering</strong>, and more <strong>Amazing Products</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/xumeng">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://amonxu.com/archives">My blog</a>.</li>
