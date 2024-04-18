@@ -5,7 +5,7 @@
 ). <br/>
     A dynamic, curious, and innovative team player who thrives on pushing boundaries, embracing challenges, and thinking outside the box. 
     <br/>
-    With a background in AI, FinTech, and Internet business, along with extensive experience in internet engineering, I excel at building products from the ground up (0-10) and leveraging technology to drive business value. 
+    With a background in AI, FinTech, and Internet business, along with extensive experience in internet engineering, I excel at building products from the ground up (0-N) and leveraging technology to drive business value. 
 <br/>
     Beyond a strong focus on technology, I bring a wealth of ideas for product development and operational growth.
 </p> 
@@ -25,12 +25,13 @@
 <h2>⚡️ About Me</h2>
 <ul>
 <li>💻 I’m currently working on Shenzhen.China</li>
-<li>🧐 Focus on <strong>AI/GenAI</strong>, Backend Service, <strong>Serverless Architectures</strong>, <strong>Distributed Systems</strong>, <strong>Full-Stack Engineering</strong>, and more <strong>Interesting Products</strong>.</li>
+<li>🧐 Focus on <strong>AI/GenAI</strong>, Backend Service, <strong>Serverless Architectures</strong>, <strong>Distributed Systems</strong>, <strong>Full-Stack Engineering</strong>, and more <strong>Amazing Products</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/xumeng">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://amonxu.com/archives">My blog</a>.</li>
 <li>🎉 <strong>Life is short, Make it funny</strong>.</li>
 <li>:soccer: Write interesting and valuable stories in my head into a book📚, or shoot them into video works🎥, and present them to the world🌏.</li>
 <li>✈️ Contact me: 📬<a href='mailto:gosuxm@gmail.com'>gosuxm@gmail.com</a></li>
+<li>💗 Learn more about me: <a href='https://about.amonxu.com'>About me</a></li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <ul>
@@ -85,7 +86,7 @@
 </p>
 <h2>📈 GitHub Stat</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=xumeng&show_icons=true&count_private=true" alt="xumeng" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=acheong08&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=xumeng&layout=compact"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xumeng"/>
 
 <h2>😄 Keep Smile</h2>
