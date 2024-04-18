@@ -2,12 +2,15 @@
 <p>
     You can call my Chinese name: <b>Meng</b> (/ mən /
 ), or my English name: <b>Amon</b> (/ ˈɑːmən /
-). <br/>
-    A dynamic, curious, and innovative team player who thrives on pushing boundaries, embracing challenges, and thinking outside the box. 
+). 
     <br/>
-    With a background in AI, FinTech, and Internet business, along with extensive experience in internet engineering, I excel at building products from the ground up (0-N) and leveraging technology to drive business value. 
-<br/>
-    Beyond a strong focus on technology, I bring a wealth of ideas for product development and operational growth.
+    I am a senior Full-Stack Engineer with a passion for creating interesting products. <b>A creative, curious, and innovative teammate, excited to push boundaries, embrace challenges, and think outside the box</b>.
+<br>
+<blockquote>// Full-stack development is just one of my advantages.</blockquote>
+I have comprehensive experience with Java, Python, JavaScript, iOS, and with a background in AI, FinTech and Internet business, I am good at building products (0 - N) from scratch and leveraging technology to drive business value.
+<br>
+In addition to focusing on technology, I bring a wealth of ideas to product development and operational growth.
+Rather than positioning myself as a <b>Backend / Full-Stack / Engineer</b>, I prefer to identify as a <b>Creative Thinker</b> and <b>Problem Solver</b>.
 </p> 
 <p>
     <a href="https://amonxu.com">
