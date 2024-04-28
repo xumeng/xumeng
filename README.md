@@ -1,4 +1,4 @@
-<h2>🫡 Hi, This is <a target="_blank" href="https://amonxu.com/">Meng</a></h2>
+<h2>🫡 Hi, This is <a target="_blank" href="https://amonxu.com/en">Meng</a></h2>
 <p>
     You can call my Chinese name: <b>Meng</b> (/ mən /
 ), or my English name: <b>Amon</b> (/ ˈɑːmən /
@@ -13,8 +13,8 @@ In addition to focusing on technology, I bring a wealth of ideas to product deve
 Rather than positioning myself as a <b>Backend / Full-Stack / Engineer</b>, I prefer to identify as a <b>Creative Thinker</b> and <b>Problem Solver</b>.
 </p> 
 <p>
-    <a target="_blank" href="https://amonxu.com">
-        <img src="https://img.shields.io/badge/-@amonxu-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Hexo&amp;link=https://amonxu.com" alt="Meng Xu's profile">
+    <a target="_blank" href="https://amonxu.com/en">
+        <img src="https://img.shields.io/badge/-@amonxu-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Hexo&amp;link=https://amonxu.com/en" alt="Meng Xu's profile">
     </a> 
     <a target="_blank" href="https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/">
         <img src="https://img.shields.io/badge/-@amonxu-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/%E7%8C%9B-%E5%BE%90-54236659/" alt="LinkedIn Badge">
