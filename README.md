@@ -30,7 +30,7 @@ Rather than positioning myself as a <b>Backend / Full-Stack / Engineer</b>, I pr
 <li>💻 I’m currently living on Shenzhen.China</li>
 <li>🧐 Focus on <strong>AI/GenAI</strong>, Backend Service, <strong>Serverless Architectures</strong>, <strong>Distributed Systems</strong>, <strong>Full-Stack Engineering</strong>, and more <strong>Amazing Products</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a target="_blank" href="https://github.com/xumeng">Github</a>.</li>
-<li>📝 I regulary write articles on <a target="_blank" href="https://amonxu.com/archives">My blog</a>.</li>
+<li>📝 I regulary write articles on <a target="_blank" href="https://amonxu.com/archives">My blog</a> and <a href="https://amonxu.medium.com/">Medium</a></li>
 <li>🎉 <strong>Life is short, Make it funny</strong>.</li>
 <li>:soccer: Write interesting and valuable stories in my head into a book📚, or shoot them into video works🎥, and present them to the world🌏.</li>
 <li>✈️ Contact me: 📬<a href='mailto:gosuxm@gmail.com'>gosuxm@gmail.com</a></li>
