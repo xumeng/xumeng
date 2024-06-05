@@ -38,6 +38,8 @@ Rather than positioning myself as a <b>Backend / Full-Stack / Engineer</b>, I pr
 </ul>
 <h2>✒️ Recent Posts</h2>
 <ul>
+    <li><a target="_blank" href="https://amonxu.com/2024/05/24/zh-CN/2024-05-24-HR-uses-Jobot-to-help-an-alien-repair-a-spaceship/">《我是一个 HR，碰到疑似“外星人”，居然让我帮他修理星际飞船？！》</a></li>
+    <li><a target="_blank" href="https://amonxu.com/2024/05/23/en/2024-05-23-How-to-embed-a-video-into-GitHub-README/">《How to embed a video into GitHub-README? So easy!》</a></li>
     <li><a target="_blank" href="https://amonxu.com/2024/04/10/en/2024-04-10-Next-i18n-Best-practices-based-app-router/">《Simply way to support multiple languages i18n in Next.js 14 (Based on App Router)》</a></li>
     <li><a target="_blank" href="https://amonxu.com/2023/10/11/en/2023-10-11-CentOS-Error-libstdc++.so.6-version-GLIBCXX_3.4.xx-not-found/">《How to solve error on CentOS "/lib64/libstdc++.so.6 version GLIBCXX_3.4.xx not found"》</a></li>
     <li><a target="_blank" href="https://amonxu.com/2023/09/01/en/2023-09-01-Refactoring/">《Best Practices for Backend System Refactoring: How to do backend system refactoring efficiently and with high quality》</a></li>
